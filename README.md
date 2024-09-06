@@ -1,6 +1,6 @@
 <h1>PDF SUMMARIZATION</h1><br />
 <h2>Project Overview:</h2> <br />
-The project focuses on summarizing the content of a technical PDF, any document based on the computational resources you might have. It automates the extraction of meaningful summaries using advanced language models and PDF processing libraries.
+The project focuses on summarizing the content of a PDF, any document based on the computational resources you might have. It automates the extraction of meaningful summaries using advanced language models and PDF processing libraries.
 <h2>Libraries:</h2><br />
 Py2PDF extract and preprocess the content from the PDF<br />
 Gemma acting as a LLM and summarizing the text<br />
