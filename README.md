@@ -4,6 +4,7 @@ The project focuses on summarizing the content of a PDF, any document based on t
 <h2>Libraries:</h2><br />
 1.Py2PDF extract and preprocess the content from the PDF<br />
 
+
 2.Gemma acting as a LLM and summarizing the text<br />
 
 3.Streamlit for Deployment<br />
