@@ -1,6 +1,6 @@
 # PDF_Summarization
-PDF SUMMARIZATION 
-<\n>Libraries:  Py2PDF, Gemma, Streamlit
+PDF SUMMARIZATION <br />
+Libraries:  Py2PDF, Gemma, Streamlit
 PDF: Data Driven Anomaly
 
 ![image](https://github.com/user-attachments/assets/9374ec0d-d79b-456b-bb1d-627a296e422c)
