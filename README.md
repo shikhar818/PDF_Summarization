@@ -3,10 +3,7 @@
 The project focuses on summarizing the content of a PDF, any document based on the computational resources you might have. It automates the extraction of meaningful summaries using advanced language models and PDF processing libraries.
 <h2>Libraries:</h2><br />
 1.Py2PDF extract and preprocess the content from the PDF<br />
-
-
 2.Gemma acting as a LLM and summarizing the text<br />
-
 3.Streamlit for Deployment<br />
 <h2>Workflow:</h2><br />
 PDF Upload: Users upload any PDF file through the Streamlit interface.<br />
