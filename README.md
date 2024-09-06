@@ -1,41 +1,61 @@
-📄 PDF Summarization Project
-📝 Project Overview
-This project is designed to summarize the content of any PDF document, automatically extracting meaningful summaries using advanced language models and PDF processing libraries. It simplifies document comprehension by providing concise overviews, regardless of the document size or complexity.
+<h1>📄 PDF Summarization Project</h1>
 
-🛠️ Libraries Used
-Py2PDF: Extracts and preprocesses content from the PDF.
-Gemma: A Language Learning Model (LLM) that summarizes the extracted text efficiently.
-Streamlit: Used for deploying the application, providing a user-friendly interface.
-🔄 Workflow
-1. PDF Upload
-Users can upload any PDF file through the Streamlit interface.
-2. Text Extraction
-Py2PDF extracts the text, parsing through sections, headings, and paragraphs, and prepares the content for summarization.
-3. Summarization
-Gemma processes the extracted content, identifying key sections and important details, and generates summaries for each part or the entire document.
-4. Results Display
-The summarized content is presented in a clean, easy-to-read format on the Streamlit app, allowing users to quickly grasp the document's essence.
-💻 How to Run the Project
-Clone the repository:
+<h2>📝 Project Overview</h2>
+<p>
+  This project is designed to <strong>summarize the content of any PDF document</strong>, automatically extracting meaningful summaries using advanced language models and PDF processing libraries. It simplifies document comprehension by providing concise overviews, regardless of the document size or complexity.
+</p>
 
-bash
-Copy code
-git clone https://github.com/your-username/pdf-summarization.git
-Install the required dependencies:
+<h2>🛠️ Libraries Used</h2>
+<ul>
+  <li><a href="https://github.com/your-link"><strong>Py2PDF</strong></a>: Extracts and preprocesses content from the PDF.</li>
+  <li><a href="https://github.com/your-link"><strong>Gemma</strong></a>: A Language Learning Model (LLM) that summarizes the extracted text efficiently.</li>
+  <li><a href="https://streamlit.io"><strong>Streamlit</strong></a>: Used for deploying the application, providing a user-friendly interface.</li>
+</ul>
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Streamlit app:
+<hr>
 
-bash
-Copy code
-streamlit run app.py
-Upload your PDF and view the summarization results instantly.
+<h2>🔄 Workflow</h2>
 
-📂 Folder Structure
-bash
-Copy code
+<h3>1. PDF Upload</h3>
+<p>Users can upload <strong>any PDF file</strong> through the <strong>Streamlit</strong> interface.</p>
+
+<h3>2. Text Extraction</h3>
+<p><strong>Py2PDF</strong> extracts the text, parsing through sections, headings, and paragraphs, and prepares the content for summarization.</p>
+
+<h3>3. Summarization</h3>
+<p><strong>Gemma</strong> processes the extracted content, identifying key sections and important details, and generates <strong>summaries</strong> for each part or the entire document.</p>
+
+<h3>4. Results Display</h3>
+<p>The summarized content is presented in a clean, <strong>easy-to-read format</strong> on the <strong>Streamlit app</strong>, allowing users to quickly grasp the document's essence.</p>
+
+<hr>
+
+<h2>💻 How to Run the Project</h2>
+
+<ol>
+  <li><strong>Clone the repository:</strong>
+    <pre>
+      <code>git clone https://github.com/your-username/pdf-summarization.git</code>
+    </pre>
+  </li>
+  <li><strong>Install the required dependencies:</strong>
+    <pre>
+      <code>pip install -r requirements.txt</code>
+    </pre>
+  </li>
+  <li><strong>Run the Streamlit app:</strong>
+    <pre>
+      <code>streamlit run app.py</code>
+    </pre>
+  </li>
+  <li>Upload your PDF and view the summarization results instantly.</li>
+</ol>
+
+<hr>
+
+<h2>📂 Folder Structure</h2>
+
+<pre>
 pdf-summarization/
 │
 ├── app.py                # Main application script
@@ -44,19 +64,21 @@ pdf-summarization/
 └── utils/
     └── py2pdf.py          # Text extraction logic
     └── gemma.py           # Summarization logic
-🎯 Features
-Automated Summarization: Quickly generates summaries from any PDF file.
-Interactive Interface: Simple PDF upload and display using Streamlit.
-Accurate Summaries: Powered by the Gemma LLM to extract key information.
-🤝 Contributing
-We welcome contributions! Please read our contribution guidelines before you start.
+</pre>
 
-📜 License
-This project is licensed under the MIT License.
+<hr>
 
-✨ Credits
-Developed by Your Name
-This format ensures that the README.md is clear, structured, and visually appealing to anyone visiting your GitHub repository.
+<h2>🎯 Features</h2>
+<ul>
+  <li><strong>Automated Summarization</strong>: Quickly generates summaries from any PDF file.</li>
+  <li><strong>Interactive Interface</strong>: Simple PDF upload and display using Streamlit.</li>
+  <li><strong>Accurate Summaries</strong>: Powered by the <strong>Gemma</strong> LLM to extract key information.</li>
+</ul>
+
+<hr>
+
+<h2>🤝 Contributing</h2>
+<p>We welcome contributions! Please read our <a href="https://github.com/your-link/contributing.md">contribution guidelines</a> before you start.</p>
 
 <h2>Screenshots</h2>
 <h4>Input:</h4>
