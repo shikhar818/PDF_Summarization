@@ -37,6 +37,16 @@
 </ul>
 
 <h2>Screenshots</h2>
+
+![Screenshot 2024-09-06 205354](https://github.com/user-attachments/assets/d508c5bb-a998-433a-a632-a5a5d1041609)
+
+![3](https://github.com/user-attachments/assets/f7038029-4615-4152-85e7-7eb686fa9619)
+
+
+![4](https://github.com/user-attachments/assets/0acf311d-113d-446c-9187-8c25af38ddb3)
+
+
+
 <h4>Input:</h4>
 
 ![image](https://github.com/user-attachments/assets/9374ec0d-d79b-456b-bb1d-627a296e422c)
