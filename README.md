@@ -27,6 +27,7 @@
 
 <h3>4. Results Display</h3>
 <p>The summarized content is presented in a clean, <strong>easy-to-read format</strong> on the <strong>Streamlit app</strong>, allowing users to quickly grasp the document's essence.</p>
+<p>Note: It requires a Good GPU in order to get it running on your local machine ! </p>
 
 
 <h2>🎯 Features</h2>
