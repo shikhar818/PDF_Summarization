@@ -7,9 +7,9 @@
 
 <h2>🛠️ Libraries Used</h2>
 <ul>
-  <li><a href="https://github.com/your-link"><strong>Py2PDF</strong></a>: Extracts and preprocesses content from the PDF.</li>
-  <li><a href="https://github.com/your-link"><strong>Gemma</strong></a>: A Language Learning Model (LLM) that summarizes the extracted text efficiently.</li>
-  <li><a href="https://streamlit.io"><strong>Streamlit</strong></a>: Used for deploying the application, providing a user-friendly interface.</li>
+  <li><strong>Py2PDF</strong></a>: Extracts and preprocesses content from the PDF.</li>
+  <li><strong>Gemma</strong></a>: A Language Learning Model (LLM) that summarizes the extracted text efficiently.</li>
+  <li><strong>Streamlit</strong></a>: Used for deploying the application, providing a user-friendly interface.</li>
 </ul>
 
 <hr>
@@ -28,45 +28,6 @@
 <h3>4. Results Display</h3>
 <p>The summarized content is presented in a clean, <strong>easy-to-read format</strong> on the <strong>Streamlit app</strong>, allowing users to quickly grasp the document's essence.</p>
 
-<hr>
-
-<h2>💻 How to Run the Project</h2>
-
-<ol>
-  <li><strong>Clone the repository:</strong>
-    <pre>
-      <code>git clone https://github.com/your-username/pdf-summarization.git</code>
-    </pre>
-  </li>
-  <li><strong>Install the required dependencies:</strong>
-    <pre>
-      <code>pip install -r requirements.txt</code>
-    </pre>
-  </li>
-  <li><strong>Run the Streamlit app:</strong>
-    <pre>
-      <code>streamlit run app.py</code>
-    </pre>
-  </li>
-  <li>Upload your PDF and view the summarization results instantly.</li>
-</ol>
-
-<hr>
-
-<h2>📂 Folder Structure</h2>
-
-<pre>
-pdf-summarization/
-│
-├── app.py                # Main application script
-├── requirements.txt       # Required dependencies
-├── README.md              # Project documentation
-└── utils/
-    └── py2pdf.py          # Text extraction logic
-    └── gemma.py           # Summarization logic
-</pre>
-
-<hr>
 
 <h2>🎯 Features</h2>
 <ul>
