@@ -12,6 +12,7 @@ Summarization: Gemma processes the extracted text, focusing on key sections disc
 Results Display: The summarized content is displayed in the Streamlit app, offering a clear and concise overview of the PDF, allowing users to understand the document's essence quickly.<br />
 
 <h2>Screenshots</h2>
+
 ![image](https://github.com/user-attachments/assets/9374ec0d-d79b-456b-bb1d-627a296e422c)
 
 ![image](https://github.com/user-attachments/assets/dc046346-c15c-4b35-a2ee-58f9fc6320bd)
