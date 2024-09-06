@@ -1,5 +1,5 @@
 # PDF_Summarization
-PDF SUMMARIZATION USING GEMMA
+PDF SUMMARIZATION 
 Libraries:  Py2PDF, Gemma, Streamlit
 PDF: Data Driven Anomaly
 
