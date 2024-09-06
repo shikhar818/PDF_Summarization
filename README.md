@@ -36,11 +36,6 @@
   <li><strong>Accurate Summaries</strong>: Powered by the <strong>Gemma</strong> LLM to extract key information.</li>
 </ul>
 
-<hr>
-
-<h2>🤝 Contributing</h2>
-<p>We welcome contributions! Please read our <a href="https://github.com/your-link/contributing.md">contribution guidelines</a> before you start.</p>
-
 <h2>Screenshots</h2>
 <h4>Input:</h4>
 
