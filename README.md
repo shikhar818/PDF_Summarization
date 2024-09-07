@@ -2,7 +2,7 @@
 
 <h2>📝 Project Overview</h2>
 <p>
-  This project is designed to <strong>summarize the content of any PDF document</strong>, automatically extracting meaningful summaries using advanced language models and PDF processing libraries. It simplifies document comprehension by providing concise overviews, regardless of the document size or complexity.
+  This project is designed to <strong>summarize the content of any PDF document</strong>, automatically extracting meaningful summaries using advanced language models and PDF processing libraries. It simplifies document comprehension by providing concise overviews of each page.
 </p>
 
 <h2>🛠️ Libraries Used</h2>
